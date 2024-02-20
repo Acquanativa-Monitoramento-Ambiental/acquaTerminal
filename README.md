@@ -17,7 +17,7 @@ Uma aplicação simples e intuitiva projetada para o processo de configuração 
 
 ## Suporte e Feedback
 
-Se você tiver alguma dúvida, problema ou sugestão sobre o AcquaSmartT, não hesite em entrar em contato conosco. Estamos aqui para ajudar a 
+Se você tiver alguma dúvida, problema ou sugestão sobre o AcquaTerminal, não hesite em entrar em contato conosco. Estamos aqui para ajudar a 
 garantir uma experiência satisfatória com o nosso software.
 
 Para obter suporte, envie um email para suporte@acquanativa.com.br.
